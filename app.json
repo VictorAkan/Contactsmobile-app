@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.vikiakan123.listandinputs"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bf12e349-ca14-4bfc-b0f5-79f410b4dc5e"
+      }
+    },
+    "owner": "vikiakan123"
   }
 }
